@@ -27,10 +27,22 @@ Overall, having the data from successful, failed and cancelled of plays' campaig
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-
+- > The best time to launch a project based on theater is May - June were 25,14% of the total successsful projects were run. 
+- > December appears to be the worst time to launch a theater project as in this data set, 46,67% failed. Furthermore, this is the month with less projects launched. 
 
 - What can you conclude about the Outcomes based on Goals?
 
+- > The most likely goal to be achieved is from $1,000.00 to $4,999.00, which is also the 51% of the total projects.
+- > From the plays projects, 66.28% were successful and data shows that a high goal means a higher percentage to fail.
+
 - What are some limitations of this dataset?
 
+We cannot really compare the whole information according to goals because we have different currencies, it only can be done one by one.
+
+
+
 - What are some other possible tables and/or graphs that we could create? 
+
+We could create the same tables but we can filter countries and currencies 
+We can also take into account the backers numbers and create a pivot table to display the connection with the success of the projects.
+
