@@ -11,13 +11,14 @@ The purpose of the analysis is to discover trends in the data set that will help
 
 ### Analysis of Outcomes Based on Launch Date
 
-<img src=resourses/Outcomes_vs_Goals.png></img> 
+![Outcomes_vs_Goals](Resourses/Outcomes_vs_Goals.png)
+
 
 The outcomes based on launch date provide an important information for Louise; its clear that that May - June it's the best time to launch a play, as around 66.8% of launched theater campaigns were successful vs 31,32% and 32,02% of failed campaigns during the same months. These outcomes also tell us that starting from October until the end of December, it's the worst time to launch a successful campaign. 
 
 ### Analysis of Outcomes Based on Goals
 
-<img src=resourses/Theater_Outcomes_vs_Launch.png></img>
+![Theater_Outcomes_vs_Launch](Resourses/Theater_Outcomes_vs_Launch.png)
 
 Overall, having the data from successful, failed and cancelled of plays' campaigns, 66,28% were successful. However, it highly depends on how high the goals were set. As many of us would think, the lowest the goal, the highest chance to have a successful campaign; nevertheless, the data shows a very interesting trend which is that from goals $30,000.00 to $44,999.00, the % of success goes up to 67% but only in 9 projects. The majority of projects (51%) have a goal of $1000,00 to $4,999.00 with a 73% success rate.
 
