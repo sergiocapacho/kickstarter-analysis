@@ -49,5 +49,6 @@ We cannot really compare the whole information according to goals because we hav
 - What are some other possible tables and/or graphs that we could create? 
 
 We could create the same tables but we can filter countries and currencies 
+
 We can also take into account the backers numbers and create a pivot table to display the connection with the success of the projects.
 
