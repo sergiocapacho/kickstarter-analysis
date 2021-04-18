@@ -30,7 +30,7 @@ Overall, having the data from successful, failed and cancelled of plays' campaig
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+What are two conclusions you can draw about the Outcomes based on Launch Date?
 
 - > The best time to launch a project based on theater is May - June were 25,14% of the total successsful projects were run. 
 - > December appears to be the worst time to launch a theater project as in this data set, 46,67% failed. Furthermore, this is the month with less projects launched. 
