@@ -37,10 +37,10 @@ What are two conclusions you can draw about the Outcomes based on Launch Date?
 
 What can you conclude about the Outcomes based on Goals?
 
-- > The most likely goal to be achieved is from $1,000.00 to $4,999.00, which is also the 51% of the total projects.
-- > From the plays projects, 66.28% were successful and data shows that a high goal means a higher percentage to fail.
+- The most likely goal to be achieved is from $1,000.00 to $4,999.00, which is also the 51% of the total projects.
+-  From the plays projects, 66.28% were successful and data shows that a high goal means a higher percentage to fail.
 
-- What are some limitations of this dataset?
+What are some limitations of this dataset?
 
 We cannot really compare the whole information according to goals because we have different currencies, it only can be done one by one.
 
